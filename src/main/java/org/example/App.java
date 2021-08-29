@@ -15,6 +15,7 @@ public class App
         math[0]=111;
         math[3]=7777;
         int position = 3;
+        int a=1;
         int i;
         for (i=0; i<math.length;i++)
         {
