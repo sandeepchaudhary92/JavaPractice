@@ -1,0 +1,2 @@
+# JavaPractice
+sample algos
